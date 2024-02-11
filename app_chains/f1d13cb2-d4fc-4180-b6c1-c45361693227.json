@@ -1,0 +1,8 @@
+{
+  "name": "mehmet01",
+  "logo": "https://github.com/47mehmet/mina/blob/main/mehmet01.jpg?raw=true",
+  "rpc_url": "http://37.27.42.110:9944",
+  "explorer_url": "http://37.27.42.110:4000",
+  "metrics_endpoint": "http://37.27.42.110:9615/metrics",
+  "id": "f1d13cb2-d4fc-4180-b6c1-c45361693227"
+}
